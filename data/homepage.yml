@@ -1,0 +1,203 @@
+---
+banner:
+  title: "Build. Deploy. Monitor. Repeat."
+social:
+  twitter: 
+  linkedin: "divyanshtiwarijpr"
+  github: "divyanshtiwarijpr"
+  gitlab: "divyanshtiwarijpr"
+  facebook: 
+  instagram:
+  gmail: "divyanshtiwarijpr"
+about:
+  enable: true
+  content: "Divyansh Tiwari - Senior Cloud & DevOps Engineer"
+  button:
+    btnText: "More Information"
+    URL: "/about"
+skill:
+  enable: true
+  item:
+    - title: "Linux"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725672698/linux_nidegp.png"
+
+    - title: "Red Hat Enterprise Linux"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725672697/redhat_p3wrec.png"
+
+    - title: "Ubuntu"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725672698/ubuntu_dzsgf0.png"
+    
+    - title: "Debian"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725728201/Debian_logo_eppeuv.png"
+
+    - title: "Windows Server"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725729505/pngegg_z1ship.png"
+    
+    - title: "FreeBSD"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725728439/FreeBSD_minimalist_logo_jkf8xu.png"
+    
+    - title: "pfSense"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725730953/799px-PfSense_logo_poa9bs.png"
+
+    - title: "OPNsense"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725729802/opnsense_logo-zilver_grijs_buw9hi.png"
+    
+    - title: "OpenVPN"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725732375/openvpn-logo-1F15BD0826-seeklogo.com_h7c1n0.png"
+    
+    - title: "WireGuard"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725732647/WireGuard-Icon-Logo.wine_mgdq0o.svg" 
+    
+    - title: "TrueNAS"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725672697/truenas_lcywj1.png"    
+
+    - title: "Synology NAS"  
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725732966/synology-logo_cfrbzu.png"
+    
+    - title: "Ubiquiti"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725733180/640px-Ubiquiti_Logo_kvlgf0.png"
+    
+    - title: "MicroTik"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1726170312/Mikrotik-logo_hso4xa.png"
+    
+    - title: "Cisco"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1726170675/1024px-Cisco_logo.svg_wh7wlx.png"
+
+    - title: "Fortinet"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1726170798/Fortinet-logo_kxne28.png"
+
+    - title: "Raspberry Pi"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1726170214/raspberry-pi_gltnzz.png"
+     
+    - title: "AWS"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725728808/640px-Amazon_Web_Services_Logo.svg_nx7lxo.png"
+
+    - title: "Azure"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725728905/azure-blue-17f0e18577_g80lpu.png"
+    
+    - title: "GCP"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725729989/gcp-02_bfahbw.png"
+
+    - title: "Cloudflare"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725730088/800px-Cloudflare_Logo.svg_tah19n.png"
+    
+    - title: "MySQL"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725730533/mysql-logo_hxk4ja.svg"
+
+    - title: "MongoDB"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725730160/mongodb_original_wordmark_logo_icon_146425_tdzm8r.png"
+
+    - title: "PostgreSQL"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725730405/640px-Postgresql_elephant.svg_tyxc1a.png"  
+
+    - title: "Docker"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725731212/97_Docker_logo_logos-512_rzxumo.png"
+
+    - title: "Kubernetes"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725731278/Kubernetes_logo_without_workmark.svg_ba0a3v.png"
+    
+    - title: "Bash"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1726172250/full_colored_dark_xgw4hf.svg"
+    
+    - title: "GitHub"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725730670/25231_zc5hly.png"
+
+    - title: "GitLab"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725730728/logo-extra-whitespace_tcix4s.png"
+   
+    - title: "Bitbucket"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1726172055/Bitbucket-icon-blue-rgb_ur2nuf.svg"
+
+    - title: "SonarQube"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725730840/Sonarqube_vzqzgs.png"
+    
+    - title: "Bytebase"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725731105/logo-full_lfae94.webp"
+    
+    - title: "Vault"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725731146/Vault_VerticalLogo_FullColor_oudriz.png"
+
+    - title: "Ansible"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725731297/Ansible_logo_dywre7.svg"
+
+    - title: "Terraform"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725731323/terraform_rmeifo.svg"
+
+    - title: "Grafana"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725731372/grafana_logo_icon_171048_p9bfgt.png"
+
+    - title: "Prometheus"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725731387/775px-Prometheus_software_logo.svg_gmb5z0.png"
+
+    - title: "Zabbix"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725731494/zabbix_logo_icon_167937_l8e4qi.png"
+    
+    - title: "VMWare"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725731532/Linux-KVM-logo-transparent_vr1bvv.png"
+
+    - title: "Proxmox"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725729648/1600px-Logo_Proxmox.svg_ntieuf.png"
+
+    - title: "Hyper-V"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725731569/Hyper-V_Logo_gouh5t.png"
+
+    - title: "Xen"
+      logo: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725731706/Xen_logo_tkrinu.svg"
+
+certifications:
+  enable: true
+  item:
+    - title: "Red Hat Certified System Administrator"
+      image: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725668703/01-RHCSA_f3c6bs.png"
+      url: "https://rhtapps.redhat.com/verify?certId=150-163-574"
+
+    - title: "Certified Secure Computer User"
+      image: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725668703/02-CSCU_qszvhv.png"
+      url: "https://aspen.eccouncil.org/VerifyBadge?type=certification&a=E9GhRCABVhnZ6ZnP94VKqxRT3my+hPqEelcsAJjSWIg="
+
+    - title: "Red Hat Certified System Administrator in Red Hat OpenStack"
+      image: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725668703/03-RHCSA-RHOS_ol6bpz.png"
+      url: "https://rhtapps.redhat.com/verify?certId=150-163-574"
+    
+    - title: "Red Hat Certified Engineer"
+      image: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725668703/04-RHCE_oul78c.png"
+      url: "https://rhtapps.redhat.com/verify?certId=150-163-574"
+
+    - title: "CompTIA Network+ CE"
+      image: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725668703/05-nplus-ce_xxx5pt.png"
+      url: "https://www.credly.com/badges/0d786249-a589-45f4-b47f-86b3051a5621/public_url"
+
+    - title: "Red Hat Certified Specialist in Virtualization"
+      image: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725668704/06-RHCS-V_n9ejlc.png"
+      url: "https://rhtapps.redhat.com/verify?certId=150-163-574"
+    
+    - title: "Red Hat Certified Specialist in Linux Diagnostics and Troubleshooting"
+      image: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725668704/07-RHCS-LDT_xqsx1o.png"
+      url: "https://rhtapps.redhat.com/verify?certId=150-163-574"
+
+    - title: "Red Hat Certified Specialist in Server Security and Hardening"
+      image: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725668704/08-RHCS-SSH_dkukfd.png"
+      url: "https://rhtapps.redhat.com/verify?certId=150-163-574"
+
+    - title: "Cisco Certified Network Associate"
+      image: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725668803/ccna_large_pfn3ga.jpg"
+      url: "https://www.credly.com/badges/eb57dfa9-4a9c-436b-9e67-579ab454f6d4/public_url"
+
+    - title: "AWS Certified Solutions Architect - Associate"
+      image: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725668704/10-SAA-C03_hyhxwm.png"
+      url: "https://www.credly.com/badges/76257862-3d5c-45b4-9c71-f95520cba71c/public_url"
+
+education:
+  enable: true
+  item:
+    - title: "Secondary Education" 
+      academy: "Central Board of Secondary Education"
+      image: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725670642/cbse_friv6c.jpg"
+    
+    - title: "Senior Secondary Education" 
+      academy: "Central Board of Secondary Education"
+      image: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725670642/cbse_friv6c.jpg"
+
+    - title: "B.Tech. Computer Science & Engineering" 
+      academy: "Rajasthan Technical University"
+      image: "https://res.cloudinary.com/divyanshtiwarijpr/image/upload/v1725670643/rtu_hkrfxm.jpg"
